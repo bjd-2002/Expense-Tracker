@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 ## dummy comment 
 ## This is newBranch
+## Remote changes in newBranch
